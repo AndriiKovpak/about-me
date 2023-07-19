@@ -1,3 +1,5 @@
+<img src="./logo.png" alt="Logo" style="border-radius:50%; border: solid 3px white;"/>
+
 # Andrii Kovpak [Experienced Full Stack Developer | FE | BE | Mobile]
 
 **[React, Vue, Angular, Bootstrap, TailwindCSS, Flutter, NestJs, Loopback, Express, Laravel]**
