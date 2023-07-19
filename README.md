@@ -1,4 +1,4 @@
-<img src="./logo.png" alt="Logo" style="border-radius:50%; border: solid 3px white;"/>
+<img src="./logo.png" alt="Logo"/>
 
 # Andrii Kovpak [Experienced Full Stack Developer | FE | BE | Mobile]
 
