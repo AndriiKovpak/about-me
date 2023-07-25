@@ -1,6 +1,6 @@
-<center>
+<p align="center">
   <img src="./logo.png" alt="Logo"/>
-</center>
+</p>
 
 # <center>Andrii Kovpak</center>
 
